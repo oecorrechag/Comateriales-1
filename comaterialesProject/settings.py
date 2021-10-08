@@ -98,10 +98,10 @@ WSGI_APPLICATION = 'comaterialesProject.wsgi.application'
 DATABASES = {
     'default': {
     'ENGINE': 'django.db.backends.postgresql_psycopg2',
-    'NAME': 'd8hdo6j0snoess',
+    'NAME': 'dc0r344srv5pqa',
     'USER': 'drztsgqjrieamp',
-    'PASSWORD': 'd51fcbfe1c012b3bcdc49898e93f7f4966908e6a6e183a16f06dc0f41620c2e0',
-    'HOST': 'ec2-44-194-6-121.compute-1.amazonaws.com',
+    'PASSWORD': 'd91128fa3f7225fc5aa64b4970ed87c1cc4ba16cb92fe37dbd5516396bb0870c',
+    'HOST': 'ec2-54-208-96-16.compute-1.amazonaws.com',
     'PORT': '5432',
     }
 }
