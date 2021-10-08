@@ -1,5 +1,0 @@
-from .catalogoSerializer import CatalogoSerializer
-from .clienteSeriealizer import ClienteSerializer
-from .facturaSeriealizer import FacturaSerializer
-from .pedidoSerializer import PedidoSerializer
-from .productoSeriealizer import ProductoSerializer
